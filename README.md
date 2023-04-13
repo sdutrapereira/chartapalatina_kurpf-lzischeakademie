@@ -1,2 +1,2 @@
-# chartapalatina_kurpf-lzischeakademie
-A Gigapixel Storymap about the Academy of Science in the Palatinate 1763-1793
+# chartapalatina_kurpfäalzischeakademie
+A Gigapixel Storymap about the Academy of Sciences in the Electoral Palatinate (1763-1803)
